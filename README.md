@@ -39,7 +39,7 @@ No middleman. No bank. Just your wallet and your goals.
 | **Verified** | ✅ BaseScan |
 | **Compiler** | Solidity 0.8.20 |
 | **License** | MIT |
-
+| **Live App** | [basevault-protocol.netlify.app](https://basevault-protocol.netlify.app) |
 🔗 [View on BaseScan](https://basescan.org/address/0x62b2944f33eba8b438b49c098ed79e04b0840b09)
 
 ---
