@@ -59,10 +59,10 @@ getAllGoals()
 ## 🗺️ Roadmap
 
 - [x] Smart contract deployed & verified on Base
-- [ ] Frontend UI (in progress)
-- [ ] Mobile responsive design
-- [ ] Multiple wallet support
-- [ ] Goal sharing feature
+- [x] Frontend UI (in progress)
+- [x] Mobile responsive design
+- [x] Multiple wallet support
+- [x] Goal sharing feature
 
 ---
 
