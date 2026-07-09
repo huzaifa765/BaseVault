@@ -71,6 +71,13 @@ getAllGoals()
 Built by [@Huzaifa_0101](https://twitter.com/Huzaifa_0101)  
 Active on Base since Feb 2024 | 1900+ onchain transactions
 
+## Security
+
+- Smart contract deployed and verified on BaseScan
+- No admin keys after deployment
+- Non-custodial — only you control your funds
+- Open source — MIT License
+
 ---
 
 ## 📄 License
