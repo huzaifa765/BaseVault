@@ -77,6 +77,11 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - No admin keys after deployment
 - Non-custodial — only you control your funds
 - Open source — MIT License
+## Supported Assets
+
+- ETH — Native Base token
+- Deposit and withdraw anytime
+- Non-custodial — your keys, your funds
 
 ---
 
