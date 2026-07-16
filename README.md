@@ -82,6 +82,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - ETH — Native Base token
 - Deposit and withdraw anytime
 - Non-custodial — your keys, your funds
+- ## Why BaseVault
+
+- Save ETH securely onchain
+- No bank — no middleman
+- Withdraw anytime
+- Fully transparent on BaseScan
 
 ---
 
