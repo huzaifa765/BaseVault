@@ -88,7 +88,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - No bank — no middleman
 - Withdraw anytime
 - Fully transparent on BaseScan
+## How Funds Are Secured
 
+- Smart contract holds funds
+- Only your wallet can withdraw
+- No admin access
+- Auditable on BaseScan anytime
 ---
 
 ## 📄 License
