@@ -94,6 +94,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Only your wallet can withdraw
 - No admin access
 - Auditable on BaseScan anytime
+- ## Contract Features
+
+- Deposit ETH anytime
+- Withdraw anytime
+- Balance tracking onchain
+- Event logs for all transactions
 ---
 
 ## 📄 License
