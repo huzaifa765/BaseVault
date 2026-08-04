@@ -100,6 +100,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Withdraw anytime
 - Balance tracking onchain
 - Event logs for all transactions
+- ## Withdrawal Rules
+
+- Withdraw anytime — no lock
+- Full amount returned instantly
+- No fees on withdrawal
+- Transaction confirmed in seconds
 ---
 
 ## 📄 License
