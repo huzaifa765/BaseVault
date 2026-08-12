@@ -106,6 +106,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Full amount returned instantly
 - No fees on withdrawal
 - Transaction confirmed in seconds
+- ## Smart Contract
+
+- Deployed on Base Mainnet
+- Verified on BaseScan
+- Non-custodial design
+- No admin backdoors
 ---
 
 ## 📄 License
