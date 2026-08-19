@@ -112,6 +112,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Verified on BaseScan
 - Non-custodial design
 - No admin backdoors
+- ## Why BaseVault
+
+- Save ETH onchain securely
+- No bank account needed
+- Access from any device
+- Permanent transaction history
 ---
 
 ## 📄 License
